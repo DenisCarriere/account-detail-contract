@@ -1,2 +1,2 @@
 # account-detail-contract
-Enrich the account detail smart contract
+Enrich the account information smart contract
